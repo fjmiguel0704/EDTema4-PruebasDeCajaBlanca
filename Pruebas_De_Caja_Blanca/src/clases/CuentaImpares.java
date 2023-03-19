@@ -17,7 +17,7 @@ public class CuentaImpares {
 		int numero;
 		
 		CuentaImpares objeto = new CuentaImpares();
-		
+	
 		Scanner read = new Scanner  (System.in);
 		System.out.println("número: ");
 		numero =read.nextInt();
